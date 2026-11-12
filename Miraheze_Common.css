@@ -1,0 +1,13 @@
+/* MediaWiki:Common.css に追記するフォント設定 */
+@font-face {
+  font-family: "Nerun Script";
+  src: url("https://cdn.jsdelivr.net/gh/nakatayukkuri/nerun-garins-wiki-fonts@main/nerun-script.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Garins Script";
+  src: url("https://cdn.jsdelivr.net/gh/nakatayukkuri/nerun-garins-wiki-fonts@main/garins-script.woff2") format("woff2");
+  font-display: swap;
+}
+.nerun-script { font-family: "Nerun Script", sans-serif; font-size: 1.4em; line-height: 1.6; }
+.garins-script { font-family: "Garins Script", sans-serif; font-size: 1.4em; line-height: 1.6; }
