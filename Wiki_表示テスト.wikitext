@@ -1,0 +1,11 @@
+== ネルン刻線文字 ==
+<span class="nerun-script">               </span>
+
+<span class="nerun-script">     </span>
+
+== ガリンス文字 ==
+<span class="garins-script">abcdefghijklmnopqrstuvwxyz</span>
+
+<span class="garins-script">Bonjour, ami!</span>
+
+※ネルンは専用のPUA文字コードを使用。ガリンス文字は通常の英字入力にも対応。
